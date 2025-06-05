@@ -1,5 +1,5 @@
 # Paper_Company_Dashboard_Project
-
+![image alt](https://github.com/SamanthaBees/Paper_Company_Dashboard_Project/blob/b2146b2ddadb8ba61bc8d73c7e2669ddba37ea38/Paper_Company_Dashboard.jpg)
 # Project Overview
 This project involved designing an operational performance dashboard for a fictional multinational paper production conglomerate with mills located in Canada, France, and the United States. The company, which has grown through acquisitions, operates aging equipment and faces high labor costs due to unionized workforces. Despite these challenges, their strategic focus remains on cost efficiency, production reliability, and profitability. To support these goals, senior management requested a monthly digital dashboard to monitor and compare mill performance. This dashboard would inform both incentive programs and strategic decisions.
 

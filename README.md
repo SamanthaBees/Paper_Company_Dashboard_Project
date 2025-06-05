@@ -28,7 +28,6 @@ This project followed the IMPACT Cycle framework for data analytics:
 
 ***3. Perform Test Plan***
 Selected and calculated 6 core KPIs:
-
 + OEE (Overall Equipment Effectiveness)
 + Unplanned Shutdown Days
 + Unplanned Downtime Loss
@@ -57,4 +56,11 @@ Selected and calculated 6 core KPIs:
 + Power BI for dashboard development
 + DAX (Data Analysis Expressions) for KPI calculations
 + Excel/CSV for initial data cleanup and review
+
+# Outcome
+The final dashboard enables Paper Companies Group’s leadership to:
++ Monitor mill performance in near real-time
++ Identify bottlenecks and underperformance
++ Support production-based incentive schemes
++ Drive strategic discussions on efficiency and cost control
 
